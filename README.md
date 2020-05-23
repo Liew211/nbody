@@ -1,1 +1,3 @@
 # nbody
+
+![](simulation.gif)
